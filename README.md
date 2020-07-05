@@ -1,5 +1,7 @@
 # LinkedIn-API
+
 <a href="https://www.codefactor.io/repository/github/vishaldhiman28/linkedin-api"><img src="https://www.codefactor.io/repository/github/vishaldhiman28/linkedin-api/badge" alt="CodeFactor" /></a>
+
 An API built around a scrapper of the LinkedIn.
 
 By making simple request to api end point, extract information like user profile details, company details, school details.
