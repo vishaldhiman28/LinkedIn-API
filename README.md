@@ -28,7 +28,8 @@ This API try to provides users a way to extract public information in a structur
 
 ### Requirements 
 
-
+  > Python >= 3.6
+  All requirements are available in this <a href="https://github.com/vishaldhiman28/LinkedIn-API/blob/master/requirements.text">requrements.txt</a> file.  
 
 
 # Terms & Conditions for Usage
