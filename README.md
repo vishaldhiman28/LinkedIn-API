@@ -4,13 +4,13 @@ An API built around a scrapper of the LinkedIn.
 
 By making simple request to api end point, extract information like user profile details, company details, school details.
 
-**Access
+**Access**
 
 > You will require a LinkedIn Accont to use it.
 
 
 
-**Note down these points.
+**Note down these points**
 
 > This is an unofficial API for linkedin.
 
