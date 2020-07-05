@@ -12,15 +12,14 @@ By making simple request to api end point, extract information like user profile
 
 
 
-**Note down these points**
+**Note down this **
 
-> This is an unofficial API for linkedin.
-
-> This is just for educational purpose.
-
-> This is not sponsored by any organisation.
+> This is an ***unofficial API*** for linkedin, built educational purpose, not sponsored by any organisation.
 
 > This violate linkedin User Agreement. So use it at your own risk.
+
+
+## Overview
 
 
 
